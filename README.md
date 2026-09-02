@@ -35,6 +35,17 @@ Automated-Excel-Report-Email-Sender/
 └── README.md
 ```
 
+## Outlook Setup
+
+This project uses Microsoft Outlook through PyWin32 to send Excel reports.
+
+1. Install Microsoft Outlook on Windows.
+2. Sign in to your Outlook account.
+3. Make sure Outlook is configured and able to send emails.
+4. Open Outlook at least once before running the Python script.
+5. Install the required Python packages.
+6. Run the Python script.
+
 ## Requirements
 
 - Windows Operating System
